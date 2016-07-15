@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "İnstagram Resim İndirme"
+  },
+  "appDesc": {
+    "message": "İnstagram resim indirme google chrome eklentisi"
+  },
+  "appLang":{
+  	"message" : "tr"	
+  }
+}

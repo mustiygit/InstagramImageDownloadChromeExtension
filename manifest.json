@@ -1,7 +1,8 @@
 {
-  "name": "İnstagram Resim İndirme ( İmage Download )",
-  "version": "3.0",
-  "description": "İnstagram resim indirme chrome eklentisi - İnstagram İmage Download chrome extension  ",
+  "name": "__MSG_appName__",
+  "version": "3.1",
+  "description": "__MSG_appDesc__",
+  "default_locale": "tr",
   "manifest_version": 2,
   
   "icons" : {
