@@ -8,10 +8,10 @@ Chrome Sayfası => [Tıklayınız](http://goo.gl/MTmv1e)
 
 
 
-Eklenecekler 
+Eklenecekler & Yapılacaklar
 =========
-- Çoklu dil dessteği eklenti bazlı yapılacak
-- Multi resim sayfalarında ki sorun giderilecek.
+- Çoklu dil desteği geliştirilecek ( Farklı diller eklenecek)
+
 
 Screenshot
 =========
