@@ -16,9 +16,7 @@
       "js": ["jquery.js", "instagramresimindirme.js"]
     }
   ],
-  "permissions": [
- "tabs"
-  ]
+  "permissions": ["tabs"]
   
 
 }
