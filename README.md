@@ -15,7 +15,7 @@ Eklenecekler & Yapılacaklar
 
 Screenshot
 =========
-[![İnstagram Resim İndirme](https://lh3.googleusercontent.com/27s8ReaKORD7GQdwyBIaNreJkkSrDHvXOQQ9z44u4_uRfgq-ZkSPc1y0hTzC9B2AriFBkuIqWA=s640-h400-e365-rw)](http://instagramresimindirme.net/)
+[![İnstagram Resim İndirme](http://uptc.xyz/LISAAIrnGvJKazFlB5.png)](http://instagramresimindirme.net/)
 
 
 
