@@ -4,7 +4,7 @@
 İnstagram resim indirme chrome eklentisi kaynak dosyalarıdır. 
 
 
-Chrome Sayfası => [Tıklayınız](http://goo.gl/MTmv1e)
+Chrome Sayfası => [Tıklayınız](https://goo.gl/MYGB6d)
 
 
 
