@@ -11,6 +11,7 @@ Chrome Sayfası => [Tıklayınız](https://goo.gl/MYGB6d)
 Eklenecekler & Yapılacaklar
 =========
 - Çoklu dil desteği geliştirilecek ( Farklı diller eklenecek)
+- Video indirme özelliği
 
 
 Screenshot
